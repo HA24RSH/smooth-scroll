@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+.hero-overlay {
+  background: radial-gradient(circle at center, rgba(0,255,150,0.1), transparent 70%);
+}
+
+html, body {
+  height: 100%;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;

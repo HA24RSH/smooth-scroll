@@ -101,7 +101,7 @@ export default function Hero() {
       </div>
 
       {/* Car */}
-      <image
+      <img
         ref={carRef}
         src="/car.png"
         alt="car"

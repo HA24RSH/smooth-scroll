@@ -70,19 +70,6 @@ The goal was to replicate a premium product landing experience using only modern
 
 ---
 
-## 📂 Project Structure
-/src
-├── app
-│ └── page.js
-├── components
-│ └── Hero.jsx
-├── public
-│ └── car.png
-└── styles
-└── globals.css
-
----
-
 ## ⚙️ Installation & Setup
 
 Clone the repository:

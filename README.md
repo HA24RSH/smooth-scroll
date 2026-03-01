@@ -72,7 +72,7 @@ The goal was to replicate a premium product landing experience using only modern
 
 ## 🌐 Live Demo
 
-👉 https://smooth-scroll.vercel.app
+👉 smooth-scroll-eta.vercel.app
 
 ---
 
